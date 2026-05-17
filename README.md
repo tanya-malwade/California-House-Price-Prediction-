@@ -45,7 +45,7 @@ Users can enter housing details through a web interface and receive predicted ho
 
 ---
 
-# Project Structure
+# Project Structure 
 
 ```bash
 California_House_Price_Prediction/
